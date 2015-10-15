@@ -31,5 +31,20 @@ Using [Wikipedia's information](https://en.wikipedia.org/wiki/APL_syntax_and_sym
 |Factorial|:love_hotel:|   |                           |             |
 
 ## Dyadic Functions
+|Name     |Emoji    |Meaning                    |Unicode value|
+|-------  |---------|---------------------------|-------------|
+|Add      |         |                           |             |
+|Subtract |         |                           |             |
+|Multiply |         |                           |             |
+|Divide   |         |                           |             |
+|Expont.  |         |                           |             |
+|Circle   |         |                           |             |
+|Deal     |         |                           |             |
+|Epsilon  |         |                           |             |
+|Max      |         |                           |             |
+|Min      |         |                           |             |
+|Reshape  |         |                           |             |
+|Take     |         |                           |             |
+|Drop     |         |                           |             |
 
 TODO
