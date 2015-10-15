@@ -38,7 +38,7 @@ Using [Wikipedia's information](https://en.wikipedia.org/wiki/APL_syntax_and_sym
 |Multiply | :heavy_multiplication_x: |          |   U+2716    |
 |Divide   | :heavy_division_sign:    |          |   U+2797    |
 |Expont.  |         |                           |             |
-|Circle   | :o:     |                           |             |
+|Circle   | :o:     |                           |   U+2B55    |
 |Deal     |         |                           |             |
 |Epsilon  |         |                           |             |
 |Max      |         |                           |             |
