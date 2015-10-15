@@ -18,7 +18,7 @@ Using [Wikipedia's information](https://en.wikipedia.org/wiki/APL_syntax_and_sym
 |Id.      |:id:|                           |             |
 |Signum   |:put_litter_in_its_place:         |                           |             |
 |Reciprcl.|:massage:         |                           |             |
-|Reshape  |         |                             |             |
+|Reshape  |:recycle:         |                             |             |
 |Matrix inv.|       |                             |             |
 |Pi times |:cake:  |                             |             |
 |Log (ln) |:deciduous_tree:|                             |             |
