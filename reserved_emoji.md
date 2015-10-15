@@ -33,12 +33,12 @@ Using [Wikipedia's information](https://en.wikipedia.org/wiki/APL_syntax_and_sym
 ## Dyadic Functions
 |Name     |Emoji    |Meaning                    |Unicode value|
 |-------  |---------|---------------------------|-------------|
-|Add      |         |                           |             |
-|Subtract |         |                           |             |
-|Multiply |         |                           |             |
-|Divide   |         |                           |             |
+|Add      | :heavy_plus_sign: |                 |             |
+|Subtract | :heavy_minus_sign:|                 |             |
+|Multiply | :heavy_multiplication_x: |          |             |
+|Divide   | :heavy_division_sign:    |          |             |
 |Expont.  |         |                           |             |
-|Circle   |         |                           |             |
+|Circle   | :o:     |                           |             |
 |Deal     |         |                           |             |
 |Epsilon  |         |                           |             |
 |Max      |         |                           |             |
