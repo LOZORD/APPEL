@@ -46,10 +46,41 @@ Using [Wikipedia's information](https://en.wikipedia.org/wiki/APL_syntax_and_sym
 |Reshape  |         |                           |             |
 |Take     |         |                           |             |
 |Drop     |         |                           |             |
-|Drop     |         |                           |             |
-|Drop     |         |                           |             |
-|Drop     |         |                           |             |
-|Drop     |         |                           |             |
-|Drop     |         |                           |             |
+|Decode     |         |                           |             |
+|Encode     |         |                           |             |
+|Residue     |         |                           |             |
+|Concat     |         |                           |             |
+|Expansion     |         |                           |             |
+|Compression     |         |                           |             |
+|Index of     |         |                           |             |
+|Maxtrx divide     |         |                           |             |
+|Rotation 1    |         |                           |             |
+|Rotation 2     |         |                           |             |
+|Log     |         |                           |             |
+|Dyadic format     |         |                           |             |
+|General transpose     |         |                           |             |
+|Combinations     |         |                           |             |
+|Dieresis     |         |                           |             |
+|LT   |         |                           |             |
+|LTE     |         |                           |             |
+|EQ     |         |                           |             |
+|GTE     |         |                           |             |
+|GT     |         |                           |             |
+|NEQ     |         |                           |             |
+|Or     |         |                           |             |
+|And     |         |                           |             |
+|Nor     |         |                           |             |
+|Nand     |         |                           |             |
+
+## Operators
+|Name     |Emoji    |Meaning                    |Unicode value|
+|-------  |---------|---------------------------|-------------|
+|Reduce last     |         |                           |             |
+|Reduce first     |         |                           |             |
+|Scan last     |         |                           |             |
+|Scan first     |         |                           |             |
+|Inner product     |         |                           |             |
+|Outer product     |         |                           |             |
+
 
 TODO
