@@ -39,12 +39,17 @@ Using [Wikipedia's information](https://en.wikipedia.org/wiki/APL_syntax_and_sym
 |Divide   | :heavy_division_sign:    |          |   U+2797    |
 |Expont.  |         |                           |             |
 |Circle   | :o:     |                           |   U+2B55    |
-|Deal     |         |                           |             |
-|Epsilon  |         |                           |             |
+|Deal     | :flower_playing_cards:  |           |   U+1F3B4   |
+|Epsilon  | :arrow_backward:         |                           |  U+2FC0           |
 |Max      |         |                           |             |
 |Min      |         |                           |             |
 |Reshape  |         |                           |             |
 |Take     |         |                           |             |
+|Drop     |         |                           |             |
+|Drop     |         |                           |             |
+|Drop     |         |                           |             |
+|Drop     |         |                           |             |
+|Drop     |         |                           |             |
 |Drop     |         |                           |             |
 
 TODO
