@@ -9,8 +9,8 @@ Using [Wikipedia's information](https://en.wikipedia.org/wiki/APL_syntax_and_sym
 |Roll     |:game_die:|                          |   U+1F3B2   |
 |Ceiling  |:arrow_up_small:|                    |   U+2B06    |
 |Floor    |:arrow_down_small:|                  |   U+2B07    |
-|Shape    |:diamond_shape_with_a_dot_inside:    |   U+1F4A0   |
-|Not      |:heavy_exclamation_mark:             |   U+2757    |
+|Shape    |:diamond_shape_with_a_dot_inside:|   |   U+1F4A0   |
+|Not      |:heavy_exclamation_mark:|            |   U+2757    |
 |Abs. val.|:libra:|                             |   U+264E    |
 |Iota     |:information_source:|                |   U+2139    |
 |Exptl.   |:rabbit:|                            |   U+1F430   |
