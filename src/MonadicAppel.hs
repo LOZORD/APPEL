@@ -1,4 +1,4 @@
-module AppelMonadic where
+module MonadicAppel where
   import System.Random as Random
   import Data.Matrix as Matrix
 
